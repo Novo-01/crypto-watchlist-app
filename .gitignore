@@ -66,8 +66,8 @@ HELP.md
 
 # Frontend (Next.js)
 # dependencies
-/node_modules
-/.pnp
+**/node_modules
+**/.pnp
 .pnp.*
 .yarn/*
 !.yarn/patches
