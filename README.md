@@ -24,3 +24,9 @@ crypto-watchlist-app/   （リポジトリのルートフォルダ）
 ├── README.md            （プロジェクト説明）
 ├── .gitignore           （Git無視設定）
 └── LICENSE（必要なら） （ライセンスファイル）
+
+
+API 一覧
+🔗 エンドポイント
+GET /api/coins
+ユーザーがウォッチリストに登録している仮想通貨の一覧を取得するAPI。
