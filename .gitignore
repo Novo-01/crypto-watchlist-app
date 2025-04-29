@@ -91,3 +91,6 @@ pnpm-debug.log*
 # Typescript specific
 *.tsbuildinfo
 frontend/next-env.d.ts
+
+# Tailwind/PostCSS artifacts
+*.css.map
